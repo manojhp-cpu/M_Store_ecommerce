@@ -1,0 +1,15 @@
+flutter_native_splash:
+  color: "#FFFFFF"            # Light mode background
+  color_dark: "#272727"       # Dark mode background
+  image: assets/logos/m-store-splash-logo-black.png    # Light mode image
+  image_dark: assets/logos/m-store-splash-logo-white.png # Dark mode image
+
+  android_12:
+    color: "#FFFFFF"          # Light mode background
+    color_dark: "#272727"     # Dark mode background
+    image: assets/logos/m-store-splash-logo-black.png
+    image_dark: assets/logos/m-store-splash-logo-white.png
+
+  ios: true
+  android: true
+  web: false

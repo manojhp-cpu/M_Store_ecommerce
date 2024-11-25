@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1004028023050",
+    "project_id": "m-store-e-commerce-82d13",
+    "storage_bucket": "m-store-e-commerce-82d13.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004028023050:android:03d23d61dddf7480e7eaf3",
+        "android_client_info": {
+          "package_name": "com.example.m_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004028023050-m0encumkim4ileo3nl5iemnr5mikc55b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_S_WuK20TCcn414l8snfFxeSs2o_X3ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004028023050-m0encumkim4ileo3nl5iemnr5mikc55b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1004028023050-27c9105v9go45milgh4olahc8jabdfi0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mStore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
